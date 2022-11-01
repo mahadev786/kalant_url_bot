@@ -47,7 +47,7 @@ I am Powerful Url Uploader Bot. Multiple Source Support. To see /help more infor
     ABOUT_TEXT = """
 <b>♻️ My Name</b> : Url Uploader Bot
 
-<b>🌀 Channel</b> : <a href="https://t.me/greymatter_bots">@GreyMatter's Bot</a>
+<b>🌀 Channel</b> : <a href="https://t.me/Deva_TGT">Dev update</a>
 
 <b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
 
@@ -55,7 +55,7 @@ I am Powerful Url Uploader Bot. Multiple Source Support. To see /help more infor
 
 <b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
 
-<b>👲 Owner :</b> <a href="https://t.me/GreyMatter_Owner">@GreyMatter_Owner</a>
+<b>👲 Owner :</b> <a href="https://t.me/Deva_TGT">Deva Update</a>
 
 """
 
@@ -126,6 +126,6 @@ I am Powerful Url Uploader Bot. Multiple Source Support. To see /help more infor
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_VOID_FORMAT_FOUND = "ERROR... <code>{}</code>"
-    FREE_USER_LIMIT_Q_SZE = """Cannot Process Free users only 1 request per 4 hrs\n
+    FREE_USER_LIMIT_Q_SZE = """Cannot Process Free users only 1 request per 7 min\n
 Upgrade your /plans to Remove Time Gaps and For link Processing"""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
